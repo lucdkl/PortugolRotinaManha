@@ -1,0 +1,45 @@
+--Rotina de acordar em Portugol.
+1-Acordar
+2-Abrir o olho
+3-Levantar da cama
+4-A porta esta aberta? (Sim)
+	1-Continuar para o banheiro
+	2-Escovar o Dente e lavar o rosto
+	3-Continuar para a cozinha
+	4-O café está pronto? (Sim)
+		1-Pegar Pão e Manteiga
+		2-Cortar Pão e passar manteiga
+		3-Comer.
+	5-O café está pronto? (Nao)
+		1-Pegar pó de café
+		2-Pegar filtro para a cafeteira
+		3-Colocar filtro e pó na cafeteira
+		4-Encher com agua
+		5-Ligar a cafeteira
+		6-Esperar o cafe ficar pronto
+		7-Pegar Açucar e colocar no café
+		8-Desligar a cafeteira
+		9-Pegar Pão e Manteiga
+		10-Cortar Pão e passar manteiga
+		11-Comer.
+5-Não
+	1-Abrir a porta
+	2-Continuar para o banheiro
+	3-Escovar o Dente e lavar o rosto
+	4-Continuar para a cozinha
+	5-O café está pronto? (Sim)
+		1-Pegar Pão e Manteiga
+		2-Cortar Pão e passar manteiga
+		3-Comer.
+	6-O café está pronto? (Nao)
+		1-Pegar pó de café
+		2-Pegar filtro para a cafeteira
+		3-Colocar filtro e pó na cafeteira
+		4-Encher com agua
+		5-Ligar a cafeteira
+		6-Esperar o cafe ficar pronto
+		7-Pegar Açucar e colocar no café
+		8-Desligar a cafeteira
+		9-Pegar Pão e Manteiga
+		10-Cortar Pão e passar manteiga
+		11-Comer.
